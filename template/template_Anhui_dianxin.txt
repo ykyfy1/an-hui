@@ -186,3 +186,5 @@ http://ipipip/rtp/238.1.79.31:4360
 http://ipipip/rtp/238.1.78.155:7112
 #EXTINF:-1 tvg-id="1" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="卫视高清",金色学堂
 http://ipipip/rtp/238.1.78.6:7952
+#EXTINF:-1 tvg-id="1" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="卫视高清",游戏风云
+http://ipipip/rtp/238.1.78.4:7936
