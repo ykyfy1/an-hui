@@ -170,3 +170,19 @@ http://ipipip/rtp/238.1.79.10:4192
 http://ipipip/rtp/238.1.79.8:4176
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
 http://ipipip/rtp/238.1.79.16:4240
+#EXTINF:-1 tvg-id="1" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="卫视高清",都市剧场
+http://ipipip/rtp/238.1.78.5:7944
+#EXTINF:-1 tvg-id="1" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视高清",乐游
+http://ipipip/rtp/238.1.78.151:7080
+#EXTINF:-1 tvg-id="1" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="卫视高清",动漫秀场
+http://ipipip/rtp/238.1.78.154:7104
+#EXTINF:-1 tvg-id="1" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视高清",金鹰纪实
+http://ipipip/rtp/238.1.78.154:7104
+#EXTINF:-1 tvg-id="1" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="卫视高清",茶
+http://ipipip/rtp/238.1.79.30:4352
+#EXTINF:-1 tvg-id="1" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="卫视高清",快乐垂钓
+http://ipipip/rtp/238.1.79.31:4360
+#EXTINF:-1 tvg-id="1" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="卫视高清",生活时尚
+http://ipipip/rtp/238.1.78.155:7112
+#EXTINF:-1 tvg-id="1" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="卫视高清",金色学堂
+http://ipipip/rtp/238.1.78.6:7952
