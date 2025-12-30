@@ -188,6 +188,8 @@ http://ipipip/rtp/238.1.78.155:7112
 http://ipipip/rtp/238.1.78.6:7952
 #EXTINF:-1 tvg-id="1" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="卫视高清",游戏风云
 http://ipipip/rtp/238.1.78.4:7936
+#EXTINF:-1 tvg-id="1" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="卫视高清",环球旅游
+http://ipipip/rtp/238.1.78.24:6120
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="卫视高清",江苏卫视4K
 http://ipipip/rtp/238.1.78.37:4088
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png" group-title="卫视高清",湖南卫视4K
