@@ -192,6 +192,12 @@ http://ipipip/rtp/238.1.78.4:7936
 http://ipipip/rtp/238.1.78.24:6120
 #EXTINF:-1 tvg-id="1" tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="卫视高清",四海钓鱼
 http://ipipip/rtp/238.1.78.18:4048
+#EXTINF:-1 tvg-id="1" tvg-name="家庭影院" tvg-logo="https://www.yangfeiyue.cn/tv/家庭影院.png" group-title="华数高清",家庭影院
+http://ipipip/rtp/238.1.78.14:4016
+#EXTINF:-1 tvg-id="1" tvg-name="武侠剧场" tvg-logo="https://www.yangfeiyue.cn/tv/武侠剧场.png" group-title="华数高清",武侠剧场
+http://ipipip/rtp/238.1.78.16:4032
+#EXTINF:-1 tvg-id="1" tvg-name="星影" tvg-logo="https://www.yangfeiyue.cn/tv/星影.png" group-title="华数高清",星影
+http://ipipip/rtp/238.1.79.7:4168
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="卫视高清",江苏卫视4K
 http://ipipip/rtp/238.1.78.37:4088
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png" group-title="卫视高清",湖南卫视4K
@@ -210,4 +216,3 @@ http://ipipip/rtp/238.1.79.25:4312
 http://ipipip/rtp/238.1.79.26:4320
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="卫视高清",北京卫视4K
 http://ipipip/rtp/238.1.79.24:4304
-
